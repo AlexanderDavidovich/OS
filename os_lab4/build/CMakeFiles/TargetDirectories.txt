@@ -1,0 +1,5 @@
+/Users/kirill/Documents/projects/os/lab_4/build/CMakeFiles/receiver.dir
+/Users/kirill/Documents/projects/os/lab_4/build/CMakeFiles/sender.dir
+/Users/kirill/Documents/projects/os/lab_4/build/CMakeFiles/tests.dir
+/Users/kirill/Documents/projects/os/lab_4/build/CMakeFiles/edit_cache.dir
+/Users/kirill/Documents/projects/os/lab_4/build/CMakeFiles/rebuild_cache.dir
